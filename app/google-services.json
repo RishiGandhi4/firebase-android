@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "983062741776",
+    "firebase_url": "https://coludprojectencryptedchatapp-default-rtdb.firebaseio.com",
+    "project_id": "coludprojectencryptedchatapp",
+    "storage_bucket": "coludprojectencryptedchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983062741776:android:5ca5cff7580039c93c1b95",
+        "android_client_info": {
+          "package_name": "com.example.encryptedchatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983062741776-07vemdqctn77gt4v5fq0gd30hffcspl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.encryptedchatapplication",
+            "certificate_hash": "d53d71366ae688dc1d77bdcc48883ba292ca2f64"
+          }
+        },
+        {
+          "client_id": "983062741776-hfj5js03n085vktnss1olumo6g504e6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAmTYN2Zwh_hgGyfxsfOK6KtdG69xcN94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983062741776-hfj5js03n085vktnss1olumo6g504e6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983062741776:android:e2d617b25684449d3c1b95",
+        "android_client_info": {
+          "package_name": "com.jayrishi.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983062741776-hfj5js03n085vktnss1olumo6g504e6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAmTYN2Zwh_hgGyfxsfOK6KtdG69xcN94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983062741776-hfj5js03n085vktnss1olumo6g504e6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
